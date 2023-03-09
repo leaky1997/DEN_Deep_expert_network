@@ -2,9 +2,9 @@
 Deep_expert_network utilize expert knowledge to establish a clear semantic space of network via neuro-symbolic AI .
 Note: the code will fully release after the paper accept
 ## TODO 
-[√] neuro symbolic operator
-[] deep expert network
-[] toturial
+- [√] neuro symbolic operator
+- [] deep expert network
+- [] toturial
 ## usage
 
 1. XX
