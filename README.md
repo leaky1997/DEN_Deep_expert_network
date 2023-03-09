@@ -1,6 +1,6 @@
 # DEN_Deep_expert_network
 Deep_expert_network utilize expert knowledge to establish a clear semantic space of network via neuro-symbolic AI .
-Note: the code will fully release after the paper accept
+Note: the code will fully release after the acceptance
 ## TODO 
 - [√] neuro symbolic operator
 - [] deep expert network
