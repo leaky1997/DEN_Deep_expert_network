@@ -92,7 +92,7 @@ class signal_filter_(nn.Module):
                   'order2_DF':torch.Tensor([-1,2,-1])}
         self.weight = op_dic[kernel_op].view(1,1,-1).to(device)
         self.stride = stride
-        self.kernel_size = kernel_size        
+        self.kernel_size = self.weight.shape[-1]       
     def forward(self,x):
         conv = F.conv1d(x, self.weight, stride=self.stride, padding=(self.kernel_size-1)//2, dilation=1, groups=1)
         return conv    
