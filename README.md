@@ -4,11 +4,14 @@ Note: the code will fully release after the acceptance
 ## TODO 
 - [√] neuro symbolic operator
 - [√] deep expert network
-- [ ] toturial with trainer
+- [ ] dataset
+- [ ] turorial with trainer
 ## usage
 
-1. XX
-
+1. conda env create -f environment.txt
+2. prepare your dataset
+    - dataset 1 ... 
+3. ..
 
 ## Citation
 
