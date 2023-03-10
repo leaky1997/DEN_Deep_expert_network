@@ -137,7 +137,7 @@ dmypy.json
 *.rar
 *.npy
 *.pth
-*.png 
+# *.png 
 *.svg
 *.0
 *.1
