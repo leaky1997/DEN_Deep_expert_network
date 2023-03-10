@@ -2,10 +2,10 @@
 Deep_expert_network utilize expert knowledge to establish a clear semantic space of network via neuro-symbolic AI .
 
 <p align="center">
-<img src=".\pic\DEN.png" height = "800" alt="" align=center />
+<img src=".\pic\DEN.png" height = "480" alt="" align=center />
 </p>
 
-![DEN](.\pic\DEN.png)
+<!-- ![DEN](.\pic\DEN.png) -->
 
 
 Note: the code will fully release after the acceptance
